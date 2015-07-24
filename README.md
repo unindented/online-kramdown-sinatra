@@ -1,4 +1,4 @@
-# Online Kramdown Editor [![Build Status](https://img.shields.io/travis/unindented/online-kramdown-sinatra.svg)](http://travis-ci.org/unindented/online-kramdown-sinatra) [![Dependency Status](https://img.shields.io/gemnasium/unindented/online-kramdown-sinatra.svg)](https://gemnasium.com/unindented/online-kramdown-sinatra)
+# Online Kramdown Editor [![Build Status](https://img.shields.io/travis/unindented/online-kramdown-sinatra.svg)](http://travis-ci.org/unindented/online-kramdown-sinatra) [![Dependency Status](https://img.shields.io/gemnasium/unindented/online-kramdown-sinatra.svg)](https://gemnasium.com/unindented/online-kramdown-sinatra) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 Quick and dirty implementation of an online [Kramdown](http://kramdown.gettalong.org/) editor.
 
